@@ -1,0 +1,1 @@
+This is a obfuscated version of the logger exe.

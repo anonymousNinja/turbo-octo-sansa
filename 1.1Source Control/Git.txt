@@ -1,0 +1,1 @@
+Some screanshots of the native git integration of VS2013.

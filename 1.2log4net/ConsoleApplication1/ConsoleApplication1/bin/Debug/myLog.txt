@@ -1,0 +1,8 @@
+INFO - This is a test log. We will print 5 info logs and 2 fatal logs.
+INFO - This is test a
+INFO - This is test b
+INFO - This is test c
+INFO - This is test d
+INFO - This is test e
+FATAL - A expected exception was thrown:Index was outside the bounds of the array.
+FATAL - A expected exception was thrown:Index was outside the bounds of the array.
